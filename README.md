@@ -1,1 +1,1 @@
-# McCabe-Thiele-and-Ponchon-Savarit-Separation-Analysis-of-Distillation-Column-with-MATLAB
+# McCabe-Thiele and Ponchon-Savarit Methods of Analysis of Distillation Columns with MATLAB
