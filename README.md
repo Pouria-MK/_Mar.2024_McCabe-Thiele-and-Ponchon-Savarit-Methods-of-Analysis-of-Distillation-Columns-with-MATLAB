@@ -30,7 +30,7 @@ The project demonstrates advanced MATLAB programming skills, a deep understandin
 This repository is organized into the following directories:
 
 1. `/DIG`: Contains diagrams and visual representations
-   - Graphical outputs of McCabe-Thiele and Ponchon-Savarit analyses
+   - Graphical outputs of McCabe-Thiele analyses
    - Flowcharts and algorithm visualizations
 
 2. `/CODE`: Houses all MATLAB scripts and functions
