@@ -40,7 +40,7 @@ This repository is organized into the following directories:
    - Utility functions and helper scripts
 
 3. `/DATA`: Stores equilibrium data for binary mixtures
-   - VLE data for various chemical systems
+   - VLE data for various chemical systems from the NIST database
    - Data formatting and preprocessing scripts
 
 4. `/DOCS`: Documentation and academic materials
